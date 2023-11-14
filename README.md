@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Treadwell @treaddevs
 - 👀 I’m interested in Full-stack Development, Web Development, and UX/UI Design
-- 🌱 I’m currently enrolled in Northeastern University's MSCS program and am learning web dev through an online boot camp
+- 🌱 I’m currently enrolled at Northeastern University (MSCS program) and am learning web dev via an online boot camp
 - 💞️ I’m looking to collaborate on exciting new projects and build cool things
 - 📫 How to reach me: Send me a DM or reach me at treadwell.sa@northeastern.edu
 
