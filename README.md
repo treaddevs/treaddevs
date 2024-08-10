@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+### About Me
+- 📚 I'm a Master's student at Northeastern University studying Computer Science (MSCS)
+- 👾 I enjoy building web applications
+- 🤝 I'm open to collaborating on new projects
+- #### 📫 How to reach me:
+- LinkedIn 👤 https://www.linkedin.com/in/sam-treadwell-70b548272/
+- Email 📧 treadwell.sa@northeastern.edu
 <!--
 **treaddevs/treaddevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
