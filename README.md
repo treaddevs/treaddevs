@@ -39,18 +39,26 @@ My passion for creative expression is conveyed through designing elegant and int
       <br/>TypeScript
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/react.svg" alt="React" width="40" height="40"/>
-      <br/>React
+      <img src="icons/python.png" alt="Python" width="40" height="40"/>
+      <br/>Python
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/java.png" alt="Java" width="40" height="40"/>
+      <br/>Java
     </td>
   </tr>
   <tr>
+    <td align="center" height="70" width="70">
+      <img src="icons/react.svg" alt="React" width="40" height="40"/>
+      <br/>React
+    </td>
     <td align="center" height="70" width="70">
       <img src="icons/next.svg" alt="React" width="40" height="40"/>
       <br/>Next.js
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/tailwind.png" alt="Tailwind CSS" height="40"/>
-      <br/>Tailwind
+      <br/>Tailwind CSS
     </td>
   </tr>
 </table>
@@ -60,16 +68,12 @@ My passion for creative expression is conveyed through designing elegant and int
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/git.svg" alt="Git" width="40" height="40"/>
-      <br/>Git
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
-      <br/>Vite
-    </td>
-    <td align="center" height="70" width="70">
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/sketch.png" alt="Sketch" width="40" height="40"/>
+      <br/>Sketch
     </td>
   </tr>
 </table>
