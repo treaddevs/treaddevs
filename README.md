@@ -14,7 +14,11 @@ My passion for creative expression is conveyed through designing elegant and int
     <img src="icons/gmail.svg" alt="Gmail" height="25" width="25" />
   </a>
 </div>
-<br>
+<be>
+
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=treaddevs&theme=dark)](https://git.io/streak-stats)
+</div>
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
