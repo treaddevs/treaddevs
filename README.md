@@ -2,10 +2,8 @@
   title="Profile">Sam</a>👋</h2>
 <br>
 <p align="center">
-I'm a graduate student attending 
-  <a href="https://roux.northeastern.edu/"  
-  title="Website">Northeastern University's Roux Institute</a> in Portland, Maine. My passion for creative communication is expressed through crafting elegant and intuitive user interfaces that convey relevant information through engaging digital experiences. I thrive at the frontend of user experience and application development.
- <br>
+I'm a Frontend Developer and Designer based in Portland, Maine.<br>
+My passion for creative expression is conveyed through designing elegant and intuitive user interfaces that create engaging digital experiences. I thrive at the frontend of user experience and application development.<br>
 
 #### 📫 How to reach me:
 - 👤 LinkedIn: [Sam Treadwell](https://www.linkedin.com/in/sam-treadwell-70b548272/) 
