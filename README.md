@@ -1,7 +1,7 @@
 # Hi, I'm [Sam Treadwell](https://www.linkedin.com/in/sam-treadwell-70b548272/) 👋
 
 <div style="text-align: center;">
-  # Hi, I'm [Sam Treadwell](https://www.linkedin.com/in/sam-treadwell-70b548272/) 👋
+  Hi, I'm [Sam Treadwell](https://www.linkedin.com/in/sam-treadwell-70b548272/) 👋
 </div>
 
 #### 📫 How to reach me:
