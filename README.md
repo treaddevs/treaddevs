@@ -121,13 +121,13 @@ My passion for creative expression is conveyed through designing elegant and int
       </div>
     </td>
   </tr>
-  <h2 align="center">UI Designs</h2>
   <tr>
+    <h2 align="center">UI Designs</h2>
     <td width='50%'>
       <h2 align='center'>Social Media</h2>
       <div align='center'>  
         <a>
-          <img src='media/profile.png' alt='Social Media UI'/>
+          <img src='media/Profile.jpg' alt='Social Media UI'/>
         </a>
         <br>
         <br>
@@ -149,7 +149,7 @@ My passion for creative expression is conveyed through designing elegant and int
       <h2 align='center'>Dashboard</h2>
       <div align='center'>  
         <a>
-          <img src='media/Solana_UI' alt='Solana Solar Dashboard UI'/>
+          <img src='media/Solana_UI.png' alt='Solana Solar Dashboard UI'/>
         </a>
         <br>
         <br>
@@ -162,12 +162,6 @@ My passion for creative expression is conveyed through designing elegant and int
           <img src='images/8.png' alt='ChatVibes'/>
         </a>
         <br>
-        <p>
-         <a href='https://github.com/Mina-Massoud/chatVibes'>
-            <img src="icons/repo.svg"/>
-          </a>
-        </p>
-        <p><strong>Data Structure, OOP, C++, QT</strong></p>
       </div>
     </td>
   </tr>
