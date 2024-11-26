@@ -16,7 +16,7 @@ My passion for creative expression is conveyed through designing elegant and int
 </div>
 <br>
 
-<h2 align="center">🚀 Languages & Tools</h1>
+<h2 align="center">🚀 Languages & Tools</h2>
 
 <h3 align='center'>👾 Development</h3>
 
@@ -51,7 +51,7 @@ My passion for creative expression is conveyed through designing elegant and int
   </tr>
 </table>
 
-<h3 align='center'>✍️ Design</h3>
+<h3 align='center'>🎨 Design</h3>
 
 <table align="center">
   <tr>
@@ -81,3 +81,4 @@ My passion for creative expression is conveyed through designing elegant and int
   </tr>
 </table>
 
+<h2 align="center">Projects</h2>
