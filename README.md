@@ -102,7 +102,7 @@ My passion for creative expression is conveyed through designing elegant and int
         <br>
         <br>
         <p>
-          <a href='https://www.samtreadwell.com/'> 
+          <a href='https://www.samtreadwell.com/' target="_blank" rel="noopener noreferrer"> 
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -120,7 +120,7 @@ My passion for creative expression is conveyed through designing elegant and int
         <br>
         <br>
         <p>
-       <a href='https://treaddevs.github.io/Fusion-F1/'>
+          <a href='https://treaddevs.github.io/Fusion-F1/' target="_blank" rel="noopener noreferrer">
             <img src='icons/live.svg'/>
           </a>
         </p>
