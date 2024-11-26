@@ -16,7 +16,7 @@ My passion for creative expression is conveyed through designing elegant and int
 </div>
 <br>
 
-<h2 align="center">🚀 Languages & Tools</h2>
+<h1 align="center">🚀 Languages & Tools</h1>
 
 <h3 align='center'>👾 Development</h3>
 
@@ -81,4 +81,94 @@ My passion for creative expression is conveyed through designing elegant and int
   </tr>
 </table>
 
-<h2 align="center">Projects</h2>
+<h1 align="center">Projects</h1>
+
+<table>
+  <tr>
+    <!-- <td width='50%'></td> -->
+      <td width='50%' colspan=2>
+      <h2 align='center'>Portfolio</h2>
+      <div align='center'>  
+        <a href='https://www.samtreadwell.com/'> 
+          <img src='media/WebThumbnail.png' alt='Portfolio Website'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://www.samtreadwell.com/'> 
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, JavaScript, Bootstrap 5</strong></p>
+      </div>
+    </td>
+     <tr>
+      <tr>
+      <td width='50%' colspan=2>
+      <h2 align='center'>Fusion F1 Website</h2>
+      <div align='center'>  
+        <a href='https://treaddevs.github.io/Fusion-F1/'>
+          <img src='media/Fusion-F1_Website.png' alt='Fusion F1 Website'/>
+        </a>
+        <br>
+        <br>
+        <p>
+       <a href='https://treaddevs.github.io/Fusion-F1/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, JavaScript, Bootstrap 5</strong></p>
+      </div>
+    </td>
+  </tr>
+  <h2 align="center">UI Designs</h2>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>Social Media</h2>
+      <div align='center'>  
+        <a>
+          <img src='media/profile.png' alt='Social Media UI'/>
+        </a>
+        <br>
+        <br>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>E-Commerce</h2>
+      <div align='center'>  
+        <a>
+          <img src='media/Quala.png' alt='Quala Water Bottles'/>
+        </a>
+        <br>
+        <br>
+      </div>
+    </td>
+  </tr>
+   <tr>
+    <td width='50%'>
+      <h2 align='center'>Dashboard</h2>
+      <div align='center'>  
+        <a>
+          <img src='media/Solana_UI' alt='Solana Solar Dashboard UI'/>
+        </a>
+        <br>
+        <br>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>ChatVibes</h2>
+       <div align='center'>  
+        <a href='https://github.com/Mina-Massoud/chatVibes'>
+          <img src='images/8.png' alt='ChatVibes'/>
+        </a>
+        <br>
+        <p>
+         <a href='https://github.com/Mina-Massoud/chatVibes'>
+            <img src="icons/repo.svg"/>
+          </a>
+        </p>
+        <p><strong>Data Structure, OOP, C++, QT</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
