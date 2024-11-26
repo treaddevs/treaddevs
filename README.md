@@ -23,11 +23,11 @@ My passion for creative expression is conveyed through designing elegant and int
 <table align="center" width:"100%">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/html5.svg" alt="HTML" width="40" height="40"/>
+      <img src="icons/html.png" alt="HTML" width="40" height="40"/>
       <br/>HTML5
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/css3.svg" alt="CSS3" width="40" height="40"/>
+      <img src="icons/css.png" alt="CSS" width="40" height="40"/>
       <br/>CSS3
     </td>
     <td align="center" height="70" width="70">
