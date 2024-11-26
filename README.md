@@ -16,7 +16,11 @@ My passion for creative expression is conveyed through designing elegant and int
 </div>
 <be>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=treaddevs&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=treaddevs&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
