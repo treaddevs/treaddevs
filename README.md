@@ -18,7 +18,7 @@ My passion for creative expression is conveyed through designing elegant and int
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h3 align="center">👾 Development</h3>
