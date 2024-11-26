@@ -35,6 +35,10 @@ My passion for creative expression is conveyed through designing elegant and int
       <br/>JavaScript
     </td>
     <td align="center" height="70" width="70">
+      <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+      <br/>TypeScript
+    </td>
+    <td align="center" height="70" width="70">
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
     </td>
@@ -45,11 +49,7 @@ My passion for creative expression is conveyed through designing elegant and int
       <br/>Next.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/redux.svg" alt="Redux" width="40" height="40"/>
-      <br/>Redux
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="images/tailwind.png" alt="Styled Components" height="40"/>
+      <img src="icons/tailwind.png" alt="Tailwind CSS" height="40"/>
       <br/>Tailwind
     </td>
   </tr>
