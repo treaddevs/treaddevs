@@ -5,12 +5,6 @@
 <p align="center">
 I'm a Frontend Developer and Designer based in Portland, Maine.<br>
 My passion for creative expression is conveyed through designing elegant and intuitive user interfaces that create engaging digital experiences. I thrive at the frontend of user experience and application development.<be>
-  
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=treaddevs&theme=dark" alt="GitHub Streak"/>
-  </a>
-</p>
 
 <div align="center">
   <p>📫 How to reach me:</p>
@@ -21,7 +15,14 @@ My passion for creative expression is conveyed through designing elegant and int
     <img src="icons/gmail.svg" alt="Gmail" height="25" width="25" />
   </a>
 </div>
-<be>
+<br>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=treaddevs&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
+<br>
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
