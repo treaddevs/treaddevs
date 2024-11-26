@@ -123,6 +123,8 @@ My passion for creative expression is conveyed through designing elegant and int
   </tr>
   <tr>
     <h2 align="center">UI Designs</h2>
+  </tr>
+  <tr>
     <td width='50%'>
       <h2 align='center'>Social Media</h2>
       <div align='center'>  
@@ -156,10 +158,10 @@ My passion for creative expression is conveyed through designing elegant and int
       </div>
     </td>
     <td width='50%'>
-      <h2 align='center'>ChatVibes</h2>
+      <h2 align='center'>Content Feed</h2>
        <div align='center'>  
-        <a href='https://github.com/Mina-Massoud/chatVibes'>
-          <img src='images/8.png' alt='ChatVibes'/>
+        <a>
+          <img src='media/ESOL.png' alt='ESOL Resources Platform'/>
         </a>
         <br>
       </div>
