@@ -18,77 +18,63 @@ My passion for creative expression is conveyed through designing elegant and int
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; justify-items: center;">
-  <!-- Development Table -->
-  <div>
-    <h3 align="center">👾 Development</h3>
-    <table align="center">
-      <tr>
-        <td align="center" height="70" width="70">
-          <img src="icons/html.png" alt="HTML" width="40" height="40"/>
-          <br/>HTML5
-        </td>
-        <td align="center" height="70" width="70">
-          <img src="icons/css.png" alt="CSS" width="40" height="40"/>
-          <br/>CSS3
-        </td>
-        <td align="center" height="70" width="70">
-          <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-          <br/>JavaScript
-        </td>
-      </tr>
-      <tr>
-        <td align="center" height="70" width="70">
-          <img src="icons/react.svg" alt="React" width="40" height="40"/>
-          <br/>React
-        </td>
-        <td align="center" height="70" width="70">
-          <img src="icons/next.svg" alt="Next.js" width="40" height="40"/>
-          <br/>Next.js
-        </td>
-        <td align="center" height="70" width="70">
-          <img src="icons/tailwind.png" alt="Tailwind CSS" height="40"/>
-          <br/>Tailwind CSS
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- Design Table -->
-  <div>
-    <h3 align="center">🎨 Design</h3>
-    <table align="center">
-      <tr>
-        <td align="center" height="70" width="70">
-          <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
-          <br/>Figma
-        </td>
-        <td align="center" height="70" width="70">
-          <img src="icons/sketch.png" alt="Sketch" width="40" height="40"/>
-          <br/>Sketch
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- Tools Table -->
-  <div>
-    <h3 align="center">🛠️ Tools</h3>
-    <table align="center">
-      <tr>
-        <td align="center" height="70" width="70">
-          <img src="icons/git.svg" alt="Git" width="40" height="40"/>
-          <br/>Git
-        </td>
-        <td align="center" height="70" width="70">
-          <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
-          <br/>Vite
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <h3 align="center">👾 Development</h3>
+      <table>
+        <tr>
+          <td align="center" height="70" width="70">
+            <img src="icons/html.png" alt="HTML" width="40" height="40"/><br/>HTML5
+          </td>
+          <td align="center" height="70" width="70">
+            <img src="icons/css.png" alt="CSS" width="40" height="40"/><br/>CSS3
+          </td>
+          <td align="center" height="70" width="70">
+            <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/><br/>JavaScript
+          </td>
+        </tr>
+        <tr>
+          <td align="center" height="70" width="70">
+            <img src="icons/react.svg" alt="React" width="40" height="40"/><br/>React
+          </td>
+          <td align="center" height="70" width="70">
+            <img src="icons/next.svg" alt="Next.js" width="40" height="40"/><br/>Next.js
+          </td>
+          <td align="center" height="70" width="70">
+            <img src="icons/tailwind.png" alt="Tailwind CSS" height="40"/><br/>Tailwind CSS
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <h3 align="center">🎨 Design</h3>
+      <table>
+        <tr>
+          <td align="center" height="70" width="70">
+            <img src="icons/figma.svg" alt="Figma" width="40" height="40"/><br/>Figma
+          </td>
+          <td align="center" height="70" width="70">
+            <img src="icons/sketch.png" alt="Sketch" width="40" height="40"/><br/>Sketch
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <h3 align="center">🛠️ Tools</h3>
+      <table>
+        <tr>
+          <td align="center" height="70" width="70">
+            <img src="icons/git.svg" alt="Git" width="40" height="40"/><br/>Git
+          </td>
+          <td align="center" height="70" width="70">
+            <img src="icons/vite.svg" alt="Vite" width="40" height="40"/><br/>Vite
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Projects</h1>
 
