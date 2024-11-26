@@ -34,18 +34,6 @@ My passion for creative expression is conveyed through designing elegant and int
       <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-      <br/>TypeScript
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/python.png" alt="Python" width="40" height="40"/>
-      <br/>Python
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/java.png" alt="Java" width="40" height="40"/>
-      <br/>Java
-    </td>
   </tr>
   <tr>
     <td align="center" height="70" width="70">
