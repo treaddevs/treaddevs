@@ -59,9 +59,9 @@ My passion for creative expression is conveyed through designing elegant and int
           </td>
         </tr>
         <tr>
-          <td align="center" height="105" width="70">
+          <td align="center" height="107" width="70">
           </td>
-          <td align="center" height="105" width="70">
+          <td align="center" height="107" width="70">
           </td>
         </tr>
       </table>
@@ -75,6 +75,12 @@ My passion for creative expression is conveyed through designing elegant and int
           </td>
           <td align="center" height="70" width="70">
             <img src="icons/vite.svg" alt="Vite" width="40" height="40"/><br/>Vite
+          </td>
+        </tr>
+        <tr>
+          <td align="center" height="107" width="70">
+          </td>
+          <td align="center" height="107" width="70">
           </td>
         </tr>
       </table>
