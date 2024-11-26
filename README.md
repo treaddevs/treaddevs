@@ -59,9 +59,9 @@ My passion for creative expression is conveyed through designing elegant and int
           </td>
         </tr>
         <tr>
-          <td align="center" height="100" width="70">
+          <td align="center" height="120" width="70">
           </td>
-          <td align="center" height="100" width="70">
+          <td align="center" height="120" width="70">
           </td>
         </tr>
       </table>
