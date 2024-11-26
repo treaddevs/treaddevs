@@ -58,6 +58,12 @@ My passion for creative expression is conveyed through designing elegant and int
             <img src="icons/sketch.png" alt="Sketch" width="40" height="40"/><br/>Sketch
           </td>
         </tr>
+        <tr>
+          <td align="center" height="70" width="70">
+          </td>
+          <td align="center" height="70" width="70">
+          </td>
+        </tr>
       </table>
     </td>
     <td>
