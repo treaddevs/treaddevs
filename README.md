@@ -18,7 +18,7 @@ My passion for creative expression is conveyed through designing elegant and int
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; justify-items: center;">
   <!-- Development Table -->
   <div>
     <h3 align="center">👾 Development</h3>
