@@ -22,7 +22,6 @@ My passion for creative expression is conveyed through designing elegant and int
     <img src="https://streak-stats.demolab.com?user=treaddevs&theme=dark" alt="GitHub Streak"/>
   </a>
 </p>
-<br>
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
