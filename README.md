@@ -121,9 +121,11 @@ My passion for creative expression is conveyed through designing elegant and int
       </div>
     </td>
   </tr>
-  <td>
-    <h2 align="center">UI Designs</h2>
-  </td>
+  <tr>
+    <td colspan="2" align="center">
+      <h2>UI Designs</h2>
+    </td>
+  </tr>
   <tr>
     <td width='50%'>
       <h2 align='center'>Social Media</h2>
