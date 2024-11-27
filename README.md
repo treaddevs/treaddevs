@@ -4,8 +4,8 @@
 
 <p align="center">
 I'm a Frontend Developer and Designer based in Portland, Maine.<br>
-My passion for creative expression is conveyed through designing elegant and intuitive user interfaces that create engaging digital experiences.<br>
-I thrive at the frontend of application development guiding user experience.<br>
+My passion for creative expression is conveyed through designing elegant and intuitive user interfaces that create engaging digital experiences.
+I thrive at the frontend of application development guiding user experience.
 
 <div align="center">
   <p>📫 How to reach me:</p>
