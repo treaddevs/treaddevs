@@ -3,9 +3,10 @@
 <br>
 
 <p align="center" style="max-width: 50vw; margin: 0 auto;">
-I'm a Frontend Developer and Designer based in Portland, Maine.<br>
-My passion for creative expression is conveyed through designing elegant and intuitive user interfaces that create engaging digital experiences.
-I thrive at the frontend of application development guiding user experience.
+  I'm a Frontend Developer and Designer based in Portland, Maine.<br>
+  My passion for creative expression is conveyed through designing elegant and intuitive user interfaces that create engaging digital experiences.<br>
+  I thrive at the frontend of application development guiding user experience.
+</p>
 
 <div align="center">
   <p>📫 How to reach me:</p>
