@@ -2,7 +2,7 @@
   title="Profile">Sam</a>👋</h2>
 <br>
 
-<p align="center" style="width: 50%;">
+<p align="justify">
   I'm a Frontend Developer and Designer based in Portland, Maine.<br>
   My passion for creative expression is conveyed through designing elegant and intuitive user interfaces that create engaging digital experiences.
   I thrive at the frontend of application development guiding user experience.
