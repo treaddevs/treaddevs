@@ -49,7 +49,7 @@ My passion for creative expression is conveyed through designing elegant and int
             <img src="icons/next.svg" alt="Next.js" width="40" height="40"/><br/>Next.js
           </td>
           <td align="center" height="70" width="70">
-            <img src="icons/tailwind.png" alt="Tailwind CSS" height="40"/><br/>Tailwind CSS
+            <img src="icons/tailwind.png" alt="Tailwind CSS" height="40"/><br/>Tailwind
           </td>
         </tr>
       </table>
