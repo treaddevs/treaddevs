@@ -67,6 +67,7 @@ My passion for creative expression is conveyed through designing elegant and int
         </tr>
         <tr>
           <td align="center" height="70" width="70">
+            <img src="icons/adobe.png" alt="Adobe Creative Cloud" width="40" height="40"/><br/>Adobe
           </td>
           <td align="center" height="70" width="70">
           </td>
@@ -86,10 +87,10 @@ My passion for creative expression is conveyed through designing elegant and int
         </tr>
         <tr>
           <td align="center" height="70" width="70">
-            <img src="icons/bootstrap.png" alt="Git" width="40" height="40"/><br/>Bootstrap
+            <img src="icons/bootstrap.png" alt="Bootstrap" width="40" height="40"/><br/>Bootstrap
           </td>
           <td align="center" height="70" width="70">
-            <img src="icons/postman.svg" alt="Git" width="40" height="40"/><br/>Postman
+            <img src="icons/postman.svg" alt="Postman" width="40" height="40"/><br/>Postman
           </td>
         </tr>
       </table>
