@@ -86,8 +86,10 @@ My passion for creative expression is conveyed through designing elegant and int
         </tr>
         <tr>
           <td align="center" height="107" width="70">
+            <img src="icons/bootstrap.png" alt="Git" width="40" height="40"/><br/>Bootstrap
           </td>
           <td align="center" height="107" width="70">
+            <img src="icons/postman.svg" alt="Git" width="40" height="40"/><br/>Postman
           </td>
         </tr>
       </table>
