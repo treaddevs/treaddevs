@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  I'm a Web Developer and Designer based in Portland, Maine.<br>
+  I'm a Frontend Developer and Designer<br>
   My passion for creative expression is conveyed through designing elegant and intuitive user interfaces.<br>
   I thrive at the front-end of application development and enjoy building engaging digital experiences.
 
