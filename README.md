@@ -5,8 +5,12 @@
 </p>
 
 <h2>Tech Stack / Tools</h2>
-<h4>Development</h4>
+<h3>Development 💻</h3>
 <p>HTML, CSS, JavaScript</p>
+
+<h3>Design 🎨</h3>
+<p>Figma, Sketch, Adobe Creative Suite</p>
+
 <table align="center">
   <tr>
     <td>
