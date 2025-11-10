@@ -1,19 +1,21 @@
+<h2>Hi there 👋</h2>
+<p>I'm Sam and I enjoy a hybrid of both design and frontend development. I have 2 years of experience with web development and design and am currently learning JavaScript frameworks.</p>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=treaddevs&theme=dark" alt="GitHub Streak"/>
   </a>
 </p>
 
-<h2>Hi, I'm Sam 👋</h2>
-<p></p>
-
-<h3>Tech I work with</h3>
+<h3>Tech I have experience with</h3>
 <ul>
-  <li>💻 HTML, CSS, JavaScript</li>
+  <li>💻 HTML, CSS, JavaScript, Node.js</li>
+  <li>📝 TypeScript, React, Tailwind CSS, Next.js</li>
   <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
 </ul>
 
-<img src="media/solana-desktop.png" alt="Solar dashboard desktop user interface"/>
+<h3>Project example</h3>
+<img src="media/solana-desktop.png" alt="Solar dashboard user interface displayed on desktop"/>
 
 <table align="center">
   <tr>
