@@ -5,7 +5,8 @@
 </p>
 
 <h2>Tech Stack / Tools</h2>
-
+<h4>Development</h4>
+<p>HTML, CSS, JavaScript</p>
 <table align="center">
   <tr>
     <td>
