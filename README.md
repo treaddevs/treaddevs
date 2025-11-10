@@ -5,11 +5,8 @@
 </p>
 
 <h3>Tech Stack / Tools</h3>
-<h4>Development 💻</h4>
-<p>HTML, CSS, JavaScript</p>
-
-<h4>Design 🎨</h4>
-<p>Figma, Sketch, Adobe</p>
+- 💻 HTML, CSS, JavaScript
+- 🎨 Figma, Sketch, Adobe
 
 <table align="center">
   <tr>
