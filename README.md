@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">🚀 Languages & Tools</h1>
+<h2>Tech Stack / Tools</h2>
 
 <table align="center">
   <tr>
