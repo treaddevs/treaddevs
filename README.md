@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>I'm Sam and I enjoy a hybrid of both design and frontend development. I have 2 years of experience with web development and design and am currently learning JavaScript frameworks. You can check out my [portfolio](https://www.samtreadwell.com) website for an in-depth view of my projects and work.</p>
+<p>I'm Sam and I enjoy a hybrid of both design and frontend development. I have 2 years of experience with web development and design and am currently learning JavaScript frameworks. You can check out my <a href="https://www.samtreadwell.com" alt="Sam Treadwell's portfolio website">portolio</a> website for an in-depth view of my projects and work.</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
