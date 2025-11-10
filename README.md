@@ -1,5 +1,5 @@
-<h2>Hi there 👋</h2>
-<p>I'm Sam and I enjoy a hybrid of both design and frontend development. I have 2 years of experience with web development and design and am currently learning JavaScript frameworks.</p>
+<h1>Hi there 👋</h1>
+<p>I'm Sam and I enjoy a hybrid of both design and frontend development. I have 2 years of experience with web development and design and am currently learning JavaScript frameworks. You can check out my [portfolio](https://www.samtreadwell.com) website for an in-depth view of my projects and work.</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -7,14 +7,14 @@
   </a>
 </p>
 
-<h3>Tech I have experience with</h3>
+<h2>Tech I have experience with</h2>
 <ul>
   <li>💻 HTML, CSS, JavaScript, Node.js</li>
   <li>📝 TypeScript, React, Tailwind CSS, Next.js</li>
   <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
 </ul>
 
-<h3>Project example</h3>
+<h2>Project example</h2>
 <img src="media/solana-desktop.png" alt="Solar dashboard user interface displayed on desktop"/>
 
 <table align="center">
