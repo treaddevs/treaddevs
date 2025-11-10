@@ -5,8 +5,8 @@
 </p>
 
 <h3>Tech Stack / Tools</h3>
-- 💻 HTML, CSS, JavaScript
-- 🎨 Figma, Sketch, Adobe
+- <p>💻 HTML, CSS, JavaScript</p>
+- <p>🎨 Figma, Sketch, Adobe</p>
 
 <table align="center">
   <tr>
