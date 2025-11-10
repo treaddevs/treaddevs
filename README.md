@@ -10,7 +10,7 @@
 <h2>Tech I have experience with</h2>
 <ul>
   <li>💻 HTML, CSS, JavaScript, Node.js</li>
-  <li>📝 TypeScript, React, Tailwind CSS, Next.js</li>
+  <li>📝 Advanced JavaScript, TypeScript, React, Tailwind CSS, Next.js</li>
   <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
 </ul>
 
