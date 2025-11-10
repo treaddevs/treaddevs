@@ -1,23 +1,3 @@
-<h2 align="center">Hi, I'm <a href="https://www.linkedin.com/in/sam-treadwell-70b548272/"  
-  title="Profile">Sam</a>👋</h2>
-<br>
-
-<p align="center">
-  I'm a Frontend Developer and Designer<br>
-  My passion for creative expression is conveyed through designing elegant and intuitive user interfaces.<br>
-  I thrive at the front-end of application development and enjoy building engaging digital experiences.
-
-<div align="center">
-  <p>📫 How to reach me:</p>
-  <a href="https://www.linkedin.com/in/sam-treadwell-70b548272/" style="margin-right: 10px; text-decoration: none;">
-    <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width="25" />
-  </a>
-  <a href="mailto:s.treadwell11@gmail.com" style="margin-left: 10px; text-decoration: none;">
-    <img src="icons/gmail.svg" alt="Gmail" height="25" width="25" />
-  </a>
-</div>
-<br>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=treaddevs&theme=dark" alt="GitHub Streak"/>
