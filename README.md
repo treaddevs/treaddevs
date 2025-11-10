@@ -1,11 +1,11 @@
+<h1>Hi there! 👋</h1>
+<p>I'm Sam and I enjoy a hybrid of both design and frontend development. Check out my <a href="https://www.samtreadwell.com" alt="Sam Treadwell's portfolio website">portolio</a> website for an in-depth view of my projects and work.</p>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=treaddevs&theme=dark" alt="GitHub Streak"/>
   </a>
 </p>
-
-<h1>Hi there! 👋</h1>
-<p>I'm Sam and I enjoy a hybrid of both design and frontend development. Check out my <a href="https://www.samtreadwell.com" alt="Sam Treadwell's portfolio website">portolio</a> for an in-depth view of my projects and work.</p>
 
 <h2>Tech I have experience with</h2>
 <ul>
