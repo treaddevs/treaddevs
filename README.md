@@ -7,7 +7,7 @@
 <h2>Hi, I'm Sam 👋</h2>
 <p></p>
 
-<h3>Technologies I work with</h3>
+<h3>Tech I work with</h3>
 <ul>
   <li>💻 HTML, CSS, JavaScript</li>
   <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
