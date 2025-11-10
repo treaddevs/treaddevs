@@ -18,7 +18,7 @@
 
 <h2>Project example</h2>
 
-<h3>Solar Dashboard UI</h3>
+<h4 align="center">Solar Dashboard UI</h4>
 <img src="media/solana-desktop.png" alt="Solar dashboard user interface displayed on desktop"/>
 
 <table align="center">
