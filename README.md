@@ -10,11 +10,11 @@
 <h2>Tech I have experience with</h2>
 <ul>
   <li>💻 HTML, CSS, JavaScript, Node.js</li>
-  <li>📝 Advanced JavaScript, TypeScript, React, Tailwind CSS, Next.js</li>
-  <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
+  <li>📝 React, TypeScript, Tailwind CSS, Next.js</li>
+  <li>🎨 Figma, Sketch, Canva, Adobe Creative Suite</li>
 </ul>
 
-<p>I have 2 years of experience with web development and design and am currently learning JavaScript frameworks.</p>
+<p>I have 2 years of experience with web development and design and am currently learning advanced JavaScript concepts, TypeScript, and web frameworks including React.js, Tailwind CSS, and Next.js.</p>
 
 <h2>Project example</h2>
 
