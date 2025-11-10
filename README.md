@@ -4,11 +4,16 @@
   </a>
 </p>
 
-<h3>Tech Stack / Tools</h3>
+<h2>Hi, I'm Sam 👋</h2>
+<p></p>
+
+<h3>Technologies I work with</h3>
 <ul>
   <li>💻 HTML, CSS, JavaScript</li>
   <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
 </ul>
+
+<img src="media/solana-desktop.png" alt="Solar dashboard desktop user interface"/>
 
 <table align="center">
   <tr>
