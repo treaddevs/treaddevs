@@ -4,12 +4,12 @@
   </a>
 </p>
 
-<h2>Tech Stack / Tools</h2>
-<h3>Development 💻</h3>
+<h3>Tech Stack / Tools</h3>
+<h4>Development 💻</h4>
 <p>HTML, CSS, JavaScript</p>
 
-<h3>Design 🎨</h3>
-<p>Figma, Sketch, Adobe Creative Suite</p>
+<h4>Design 🎨</h4>
+<p>Figma, Sketch, Adobe</p>
 
 <table align="center">
   <tr>
