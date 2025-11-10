@@ -1,5 +1,5 @@
 <h1>Hi there! 👋</h1>
-<p>My name is Sam and I enjoy a hybrid of both product design and frontend development. Here's my <a href="https://www.samtreadwell.com" alt="Sam Treadwell's portfolio website">portfolio</a>
+<p>My name is Sam and I enjoy a hybrid of both product design and frontend development. Here's my portfolio website <a href="https://www.samtreadwell.com" alt="Sam Treadwell's portfolio website">samtreadwell.com</a>.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -18,7 +18,7 @@
 
 <h2>Project example</h2>
 
-<h3 align="center">Solar Dashboard UI</h3>
+<h3>Solar Dashboard UI</h3>
 <img src="media/solana-desktop.png" alt="Solar dashboard user interface displayed on desktop"/>
 
 <table align="center">
