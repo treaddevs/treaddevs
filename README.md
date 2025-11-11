@@ -1,7 +1,7 @@
 <h1>Hi there! 👋</h1>
 
 <p>
-  My name is Sam and I am interested in a mix of product design, frontend development, and human-computer interaction.
+  My name is Sam and I am interested in a blend of product design, frontend development, and human-computer interaction.
 </p>
 
 <p align="center">
