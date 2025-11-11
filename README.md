@@ -16,7 +16,7 @@
 
 <h2>Tech I have experience with</h2>
 <ul>
-  <li>💻 HTML, CSS, JavaScript, Node.js</li>
+  <li>💻 HTML, CSS, JavaScript, Bootstrap, Node.js, Chart.js</li>
   <li>📝 React, TypeScript, Tailwind CSS, Next.js</li>
   <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
 </ul>
