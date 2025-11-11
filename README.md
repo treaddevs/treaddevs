@@ -14,9 +14,9 @@
   <li>🎨 Figma, Sketch, Adobe Creative Suite</li>
 </ul>
 
-<p>I have 2 years of experience with web development and design and am currently learning advanced JavaScript concepts, TypeScript, and web frameworks including React.js, Tailwind CSS, and Next.js.</p>
+<p>I have 2+ years of experience with web development and design and am currently learning advanced JavaScript concepts, TypeScript, and web frameworks including React.js, Tailwind CSS, and Next.js.</p>
 
-<h2>Project example 👨🏻‍💻</h2>
+<h2>Sample mockup 👨🏻‍💻</h2>
 
 <h3>Solar Dashboard UI</h3>
 <img src="media/solana-desktop.png" alt="Solar dashboard user interface displayed on desktop"/>
