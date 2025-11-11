@@ -1,5 +1,5 @@
 <h1>Hi there! 👋</h1>
-<p>My name is Sam and I enjoy a hybrid of both product design and frontend development. <a href="https://www.samtreadwell.com" alt="Sam Treadwell's portfolio website">samtreadwell.com</a>
+<p>My name is Sam and I am interested in a mix of product design, frontend development, and human-computer interaction. <a href="https://www.samtreadwell.com" alt="Sam Treadwell's portfolio website">samtreadwell.com</a>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
