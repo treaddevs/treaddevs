@@ -22,7 +22,7 @@
 </ul>
 
 <p>
-  I have 2+ years of experience with web development and design and am currently learning advanced JavaScript concepts, TypeScript, and web frameworks including React.js, Tailwind CSS, and Next.js.
+  I have 3 years of experience with web development and design and am currently learning advanced JavaScript concepts, TypeScript, and web frameworks including React.js, Tailwind CSS, and Next.js.
 </p>
 
 <h2>Sample mockup 👨🏻‍💻</h2>
